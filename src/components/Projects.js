@@ -14,6 +14,24 @@ import TrackVisibility from "react-on-screen";
 export const Projects = () => {
   const projects = [
     {
+      title: "Arvas AI Website",
+      description: "Website Development",
+      imgUrl: projImg5,
+      url: "https://arvas.ai/",
+    },
+    {
+      title: "Anaca Website",
+      description: "Website Development",
+      imgUrl: projImg6,
+      url: "https://anaca.sg/",
+    },
+    {
+      title: "RenoQuotez Website",
+      description: "Website Development",
+      imgUrl: projImg7,
+      url: "https://renoquotez.singaporetestlab.com/",
+    },
+    {
       title: "Aperia Website",
       description: "Website Development",
       imgUrl: projImg1,
@@ -36,24 +54,6 @@ export const Projects = () => {
       description: "Website Development",
       imgUrl: projImg4,
       url: "https://www.globotix.sg/",
-    },
-    {
-      title: "Arvas AI Website",
-      description: "Website Development",
-      imgUrl: projImg5,
-      url: "https://arvas.ai/",
-    },
-    {
-      title: "Anaca Website",
-      description: "Website Development",
-      imgUrl: projImg6,
-      url: "https://anaca.sg/",
-    },
-    {
-      title: "RenoQuotez Website",
-      description: "Website Development",
-      imgUrl: projImg7,
-      url: "https://renoquotez.singaporetestlab.com/",
     },
   ];
 
